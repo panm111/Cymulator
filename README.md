@@ -1,3 +1,7 @@
 # Cymulator
 
-Cymulator is a leisure bike ride simulator. Users ride a stationary bike while watching a first-person video of a bike ride around Central Park or the streets of New York City. aasdfasdf
+Cymulator is a leisure bike ride simulator. Users ride a stationary bike while watching a first-person video of a bike ride around Central Park or the streets of New York City.
+
+Using a magnetic sensor on the back wheel of the bicycle, hooked up to the Arduino and running through Processing, the pedaling speed determines the speed of the video playback.
+
+![Image of Arduino Hookup](https://lh3.googleusercontent.com/sNmZqsq7DoUe6GlIJhXALNCmzxFL2Mu3N1nNTZVIGqv6aVzahMzUy2ucIqfGvCbyq9drg4ovlLUXBhBDLSA1oZUuFD7d9YyFkPLfNLBhFkds8AWiov-GOaUTEK3OiEn0-26-_kV4XIa7UKQ5dSdC8CycmftKfbE0MUYyY6fpoC7U7WepfibpQwqy4PTEBFG_xwpd_oWlD9RWjzj9X492_ce8CYT9YdpQM7MAivgRVvK6kSFBapML2IKFFkAp0mojQ_XoI_vyK95nmUQ-G_j9ENvVYJqgg8Br1tzl0_kDB9H4_GdL3pOtW0MxHXbidiMrVcvDRV30D5INSQ6G_SWoltkpKebtLt4S4r-xekt5qQOkau12pJYiFWsO7gW8cnZUeg8rydsOfQ8YIu-yWlb0fakidrRxAYMzrGp0i6u-iRi-lpbDBXGJ2zJHSEni2VXAy2vShMCMg0Zx-OAL3hRGY50s1uMXBdYsxxkSyBaJQ5rHa8d-JSuxauCXi3jARuKejPEzuA26d5KX0UEyofypULi3mH8hU3X0dkljfoBHXhY7TzK82AUxSvmkIIzVF4Br9mHGtlUOMWwyOlfL5wHDJRl3aWkWEZ04paEWb2CePoJyju0ifGYl=w1390-h1852-no)
